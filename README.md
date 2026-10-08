@@ -1,7 +1,7 @@
 # E-Commerce Sales Analytics and AI-Based Sales Prediction
 
 **IBM SkillsBuild Data Analytics with AI Academic Internship — Capstone Project**  
-**Submitted by:** Vishnu Upendra Borusu
+**Submitted by:** POTHURI SATYA BABA RAMA KARTIKEYA 
 
 ---
 
@@ -39,7 +39,7 @@ All CSV files are located in the project root directory. Do not modify them.
 ```
 ECommerce_Sales_Analytics_Dataset/
 │
-├── Vishnu upendra Borusu_ECommerce_Sales_Analytics.ipynb   # Main Jupyter Notebook (34 sections)
+├── POTHURI SATYA BABA RAMA KARTIKEYA_ECommerce_Sales_Analytics.ipynb   # Main Jupyter Notebook (34 sections)
 ├── requirements.txt                           # Python dependencies
 ├── README.md                                  # This file
 │
